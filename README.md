@@ -16,8 +16,8 @@
 - Software & App Development  
 
 ## 📫 How to Reach Me  
-- Email: [your-email@example.com]  
-- LinkedIn: [your-linkedin-profile]  
+- Email: [durgeshwarisardesai@gmail.com ]  
+- LinkedIn: [durgeshwari-sardesai-89a9a7308]  
 - GitHub: [github.com/durgeshwari07](https://github.com/durgeshwari07)  
 
 ## 😄 Pronouns  
