@@ -1,7 +1,7 @@
 #  Hi, I’m Durgeshwari (@durgeshwari07)
 
 ##  About Me  
-- 📚 BCA (Bachelor of Computer Applications) - Second Year  
+- 📚 BCA (Bachelor of Computer Applications)   
 - 💻 Passionate about Web Development & Software Development  
 - 🎯 Exploring Backend Technologies & Cloud Computing  
 
